@@ -1,0 +1,29 @@
+# dependencies
+HY6/redux-anecdotes-v2/node_modules
+HY5/bloglist-frontend/node_modules
+HY5/unicafe/node_modules
+HY5/redux-anecdotes/node_modules
+HY4/node-modules
+
+# production
+HY5/bloglist-frontend/build
+
+# misc
+HY5/bloglist-frontend/.DS_Store
+HY5/bloglist-frontend/.env.local
+HY5/bloglist-frontend/.env.development.local
+HY5/bloglist-frontend/.env.test.local
+HY5/bloglist-frontend/.env.production.local
+
+HY5/redux-anecdotes/.DS_Store
+HY5/redux-anecdotes/.env.local
+HY5/redux-anecdotes/.env.development.local
+HY5/redux-anecdotes/.env.test.local
+HY5/redux-anecdotes/.env.production.local
+
+HY5/unicafe/.DS_Store
+HY5/unicafe/.env.local
+HY5/unicafe/.env.development.local
+HY5/unicafe/.env.test.local
+HY5/unicafe/.env.production.local
+
