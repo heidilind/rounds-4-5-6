@@ -1,0 +1,28 @@
+h1 {
+    color: green;
+    font-style: italic;
+  }
+
+.user_info {
+    display: inline-block
+}
+
+.blog {
+    padding: 10px;
+    padding: 2px;
+    border: 'solid';
+    border-radius: 5px;
+    border-width: 4px;
+    margin-bottom: 5px;
+}
+  
+
+.error {
+color: #008B8B;
+background: lightgrey;
+font-size: 20px;
+border-style: solid;
+border-radius: 5px;
+padding: 7px;
+margin-bottom: 10px;
+}
